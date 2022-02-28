@@ -4,4 +4,3 @@ test
 test
 something
 test
-test for cron
